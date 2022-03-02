@@ -22,8 +22,7 @@ const WindowSize = () => {
 
   return (
     <div
-      className="bg-slate-900 h-screen flex flex-col justify-center items-center lg:text-5xl md:text-4xl text-xl lg:text-blue-600
-        md:text-green-600 text-red-600"
+      className="bg-slate-900 h-screen flex flex-col justify-center items-center lg:text-5xl md:text-4xl text-xl text-blue-600"
     >
       <h1 className="p-2 hover:border-2 border-white rounded-xl hover:cursor-pointer">
         The Actual Size of the Window is
